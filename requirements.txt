@@ -1,0 +1,4 @@
+bert4keras==0.11.1
+tensorflow >= 2.0.0
+numpy
+transformers
